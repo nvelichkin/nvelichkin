@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Nikita
 #### Currently working at Live Typing
-![Currently working at Live Typing](https://livetyping.com/assets/images/global/720%C3%97400.png)
 
 iOS Developer, previously Frontend/Backend developer
 
