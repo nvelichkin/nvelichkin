@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Nikita
 #### Currently working at Live Typing
 
-iOS Developer, previously Frontend/Backend developer
+iOS Developer, previously Web/Backend developer
 
 Skills: • Swift • Objective-C
 
